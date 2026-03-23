@@ -1,6 +1,7 @@
 # European Climate Change Dashboard PowerBI
 
-<img width="820" height="420" alt="image" src="https://github.com/user-attachments/assets/1434b38c-1ada-4843-ad86-5713ff4976e1" />
+<img width="847" height="473" alt="image" src="https://github.com/user-attachments/assets/71975b9b-4df7-4ed6-a0c2-0648f9099b00" />
+
 
 
 This **Power BI dashboard** visualizes the results of a survey conducted by the **European Social Survey (ESS)** [ESS Official Website](https://www.europeansocialsurvey.org/), which collected responses from individuals across
